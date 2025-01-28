@@ -8,16 +8,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Other Work
 
-![](https://github-readme-stats.vercel.app/api?username=none&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=none&theme=radical)
+### **1. LLM Safety Leaderboard**
+- Built an interactive leaderboard to evaluate and compare LLM safety metrics.
+- Features real-time performance and risk-based evaluation.
+
+### **2. Policy-Based Guardrails and Violation Detection**
+- Engineered a system for detecting and handling policy violations in AI systems.
+- Enabled robust decision-making through clear, automated rule enforcement.
+
+### **3. Confidential Computing Container-Based Solution**
+- Designed secure containers to protect sensitive AI data and models during execution.
+- Leveraged cutting-edge confidential computing techniques for end-to-end encryption.
+
+### **4. Semantic Cache Solution**
+- Developed a caching mechanism that uses semantic similarity for faster and more efficient query resolution.
+- Improved latency and reduced computational overhead for large-scale systems.
+
+### **5. AI Anti Hallucination System**
+- Created an automated detection and mitigation system for AI hallucinations.
+- Advanced the reliability of AI outputs in critical use cases.
 
 ---
 
 ## 🛠️ Skills
 ### **Programming Languages**
-- Python, TypeScript, JavaScript, C, C++, C#, Java, Go, Rust, Bash, R, SQL
+- Python, TypeScript, JavaScript, C, C++, C#, Java, Go, Rust, Bash, R, SQL, Scheme, Lua (Kong)
 
 ### **Tools**
 - Docker, Kubernetes, Terraform, Git, Supabase, Firebase, AWS (SageMaker, EC2, S3, Lambda), Azure (VMs, Blob Storage), GCP (BigQuery, Vertex AI), RunPod, Vercel, Shadeform
