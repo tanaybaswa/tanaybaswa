@@ -10,8 +10,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tanaybaswa&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanaybaswa&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=none&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=none&theme=radical)
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanaybaswa/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/Tanay_Baswa)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=portfolio)](your-portfolio-link)
 
 ---
