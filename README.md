@@ -7,10 +7,6 @@
 - 🛠 Passionate about ensuring AI systems are safe, secure, and robust.
 
 ---
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=tanaybaswa&style=flat-square&color=blue)
----
 
 ## 🔥 Other Work
 
